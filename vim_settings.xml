@@ -15,10 +15,15 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
+        <mark key="'" line="214" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
       <jump line="38" column="16" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
+      <jump line="182" column="61" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
