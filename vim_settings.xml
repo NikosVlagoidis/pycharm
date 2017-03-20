@@ -1,0 +1,58 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" timestamp="1490010478976">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/urls.py" timestamp="1490010289061">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
+      <jump line="38" column="16" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
