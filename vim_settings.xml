@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/gui/src/RegisterForm.js" timestamp="1490108347222">
+        <mark key="[" line="38" column="40" />
+      </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" timestamp="1490010478976">
         <mark key="'" line="38" column="16" />
         <mark key="[" line="7" column="0" />
@@ -41,9 +44,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -57,6 +63,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
