@@ -19,6 +19,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.sunloto_games_wallet/sunloto/views/authenticate.py" timestamp="1492613672241">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+      </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/urls.py" timestamp="1490010289061">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -38,11 +43,14 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text>self</text>
       </register>
     </registers>
     <search>
