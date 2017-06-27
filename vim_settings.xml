@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
         <mark key="'" line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" timestamp="1498571475265">
+        <mark key="[" line="119" column="8" />
+        <mark key="]" line="119" column="7" />
+        <mark key="^" line="119" column="7" />
+        <mark key="." line="119" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
@@ -44,13 +50,13 @@
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self</text>
+        <text encoding="base64">YDwv</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text encoding="base64">YDwv</text>
       </register>
     </registers>
     <search>
@@ -80,6 +86,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
