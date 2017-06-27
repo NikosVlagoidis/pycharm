@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Side Projects/tv/tv/settings.py" timestamp="1491997655589">
@@ -32,11 +32,12 @@
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
         <mark key="'" line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" timestamp="1498571961875">
-        <mark key="[" line="115" column="25" />
-        <mark key="]" line="115" column="24" />
-        <mark key="^" line="115" column="24" />
-        <mark key="." line="115" column="24" />
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" timestamp="1498572602323">
+        <mark key="'" line="102" column="79" />
+        <mark key="[" line="102" column="73" />
+        <mark key="]" line="102" column="74" />
+        <mark key="^" line="115" column="43" />
+        <mark key="." line="102" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -44,16 +45,18 @@
       <jump line="38" column="16" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/backend.py" />
       <jump line="182" column="61" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="214" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" />
+      <jump line="115" column="49" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" />
+      <jump line="102" column="79" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>You can also filter the list with query params on the url for the fields: **channel_event_type**, **market**, **bet_code**, **number**  of the resource.</text>
+        <text>params</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>You can also filter the list with query params on the url for the fields: **channel_event_type**, **market**, **bet_code**, **number**  of the resource.</text>
+        <text>'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
@@ -62,7 +65,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>use</text>
+        <text>''</text>
       </register>
     </registers>
     <search>
