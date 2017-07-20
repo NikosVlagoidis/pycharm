@@ -5,6 +5,7 @@
       <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="make_channels_gs" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
