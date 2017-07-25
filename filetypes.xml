@@ -10,6 +10,7 @@
       <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="basic auth" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="2017-02-20" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
