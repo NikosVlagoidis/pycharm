@@ -11,6 +11,7 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
       <mapping pattern="basic auth" type="PLAIN_TEXT" />
+      <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="2017-02-20" type="PLAIN_TEXT" />
