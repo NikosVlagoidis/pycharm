@@ -9,6 +9,7 @@
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
       <mapping pattern="basic auth" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
