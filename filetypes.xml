@@ -13,6 +13,7 @@
       <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
       <mapping pattern="basic auth" type="PLAIN_TEXT" />
       <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
+      <mapping pattern="df" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="2017-02-20" type="PLAIN_TEXT" />
