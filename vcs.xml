@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/building-microservices-with-go/chapter1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/building-microservices-with-go/chapter2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Side Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Side Projects/go" />
   </component>
 </application>
