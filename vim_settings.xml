@@ -93,7 +93,7 @@
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>/STA</text>
+        <text>help</text>
       </register>
       <register name="-" type="4">
         <text>en-us</text>
@@ -124,6 +124,7 @@
         <entry>use</entry>
         <entry>/USE</entry>
         <entry>/STA</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
