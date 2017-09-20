@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Side Projects/tv/tv/settings.py" timestamp="1491997655589">
@@ -8,6 +8,13 @@
         <mark key="]" line="40" column="18" />
         <mark key="^" line="40" column="18" />
         <mark key="." line="40" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" timestamp="1505912546669">
+        <mark key="'" line="123" column="23" />
+        <mark key="[" line="123" column="17" />
+        <mark key="]" line="123" column="24" />
+        <mark key="^" line="138" column="20" />
+        <mark key="." line="123" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/gui/src/RegisterForm.js" timestamp="1490108347222">
         <mark key="[" line="38" column="40" />
@@ -32,6 +39,12 @@
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
         <mark key="'" line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" timestamp="1505911864084">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" timestamp="1498572602323">
         <mark key="'" line="102" column="79" />
         <mark key="[" line="102" column="73" />
@@ -47,6 +60,24 @@
       <jump line="214" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" />
       <jump line="115" column="49" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" />
       <jump line="102" column="79" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/docs/read-only-endpoints.rst" />
+      <jump line="74" column="19" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" />
+      <jump line="114" column="36" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" />
+      <jump line="11" column="34" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="125" column="13" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="32" column="2" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="137" column="31" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="141" column="79" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="136" column="21" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="138" column="34" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="123" column="23" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -56,26 +87,43 @@
         <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>/STA</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>en-us</text>
+      </register>
+      <register name="/" type="4">
+        <text>STA</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>STA</last-search>
+      <last-offset />
+      <last-pattern>STA</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>use</entry>
+        <entry>USE</entry>
+        <entry>STA</entry>
+      </history-search>
       <history-cmd>
+        <entry>ls</entry>
+        <entry>sh</entry>
         <entry>q</entry>
+        <entry>NERDTree</entry>
+        <entry>/use</entry>
+        <entry>use</entry>
+        <entry>/USE</entry>
+        <entry>/STA</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,6 +146,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
