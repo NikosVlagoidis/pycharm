@@ -9,12 +9,12 @@
         <mark key="^" line="40" column="18" />
         <mark key="." line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" timestamp="1505978606065">
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" timestamp="1505979735552">
         <mark key="'" line="123" column="23" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="12" />
-        <mark key="^" line="127" column="12" />
-        <mark key="." line="127" column="12" />
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="46" column="21" />
+        <mark key="^" line="46" column="21" />
+        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/gui/src/RegisterForm.js" timestamp="1490108347222">
         <mark key="[" line="38" column="40" />
@@ -99,7 +99,7 @@
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>en-us</text>
@@ -131,6 +131,7 @@
         <entry>/USE</entry>
         <entry>/STA</entry>
         <entry>help</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
