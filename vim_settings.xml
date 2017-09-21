@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Side Projects/tv/tv/settings.py" timestamp="1491997655589">
@@ -9,12 +9,12 @@
         <mark key="^" line="40" column="18" />
         <mark key="." line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" timestamp="1505912546669">
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" timestamp="1505978606065">
         <mark key="'" line="123" column="23" />
-        <mark key="[" line="123" column="17" />
-        <mark key="]" line="123" column="24" />
-        <mark key="^" line="138" column="20" />
-        <mark key="." line="123" column="17" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="12" />
+        <mark key="^" line="127" column="12" />
+        <mark key="." line="127" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/gui/src/RegisterForm.js" timestamp="1490108347222">
         <mark key="[" line="38" column="40" />
@@ -73,7 +73,6 @@
       <jump line="131" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="32" column="2" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="137" column="31" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="141" column="79" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
@@ -81,18 +80,22 @@
       <jump line="145" column="12" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="138" column="34" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="123" column="23" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>params</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
+        <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
@@ -153,6 +156,51 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
