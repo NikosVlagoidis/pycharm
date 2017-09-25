@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Side Projects/tv/tv/settings.py" timestamp="1491997655589">
@@ -36,6 +36,12 @@
         <mark key="[" line="35" column="33" />
         <mark key="]" line="35" column="33" />
         <mark key="." line="35" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Side Projects/testing_tensorflow/test.py" timestamp="1506337992196">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/urls.py" timestamp="1490010289061">
         <mark key="[" line="14" column="0" />
@@ -92,23 +98,29 @@
       <register name="0" type="4">
         <text>params</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmRhc2Zkc2Y=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>uuid4</text>
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>uuid4</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>STA</text>
