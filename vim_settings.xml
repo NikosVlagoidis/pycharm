@@ -16,6 +16,12 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="46" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/Side Projects/photo_dropbox/app.py" timestamp="1506329957550">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/gui/src/RegisterForm.js" timestamp="1490108347222">
         <mark key="[" line="38" column="40" />
       </file>
@@ -89,8 +95,8 @@
       <register name="1" type="2">
         <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>uuid4</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
@@ -102,7 +108,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>en-us</text>
+        <text>uuid4</text>
       </register>
       <register name="/" type="4">
         <text>STA</text>
