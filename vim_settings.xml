@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Side Projects/tv/tv/settings.py" timestamp="1491997655589">
@@ -37,11 +37,11 @@
         <mark key="]" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/Side Projects/testing_tensorflow/test.py" timestamp="1506337992196">
+      <file name="$USER_HOME$/Desktop/Side Projects/testing_tensorflow/test.py" timestamp="1506338850531">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/mailer/urls.py" timestamp="1490010289061">
         <mark key="[" line="14" column="0" />
