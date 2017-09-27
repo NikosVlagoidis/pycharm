@@ -16,6 +16,23 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="46" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.sunloto_games_wallet/sunloto/views/authenticate.py" timestamp="1492613672241">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.bouncer/heimdal/groups/models.py" timestamp="1506504337645">
+        <mark key="[" line="87" column="69" />
+        <mark key="]" line="87" column="69" />
+        <mark key="^" line="87" column="69" />
+        <mark key="." line="87" column="69" />
+      </file>
+      <file name="/manage.py@vermantia-rgs.connect_configurations" timestamp="1505920646058">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
+        <mark key="'" line="214" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Side Projects/photo_dropbox/app.py" timestamp="1506329957550">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -32,11 +49,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.sunloto_games_wallet/sunloto/views/authenticate.py" timestamp="1492613672241">
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="33" />
-        <mark key="." line="35" column="33" />
-      </file>
       <file name="$USER_HOME$/Desktop/Side Projects/testing_tensorflow/test.py" timestamp="1506351768022">
         <mark key="'" line="24" column="71" />
         <mark key="[" line="2" column="39" />
@@ -48,12 +60,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/manage.py@vermantia-rgs.connect_configurations" timestamp="1505920646058">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
-        <mark key="'" line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" timestamp="1505911864084">
         <mark key="'" line="20" column="18" />
@@ -104,7 +110,7 @@
         <text encoding="base64">CmRhc2Zkc2Y=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>['</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -122,7 +128,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>['</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>STA</text>
