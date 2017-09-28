@@ -21,7 +21,8 @@
         <mark key="]" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.bouncer/heimdal/groups/models.py" timestamp="1506504337645">
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.bouncer/heimdal/groups/models.py" timestamp="1506586512059">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="87" column="69" />
         <mark key="]" line="87" column="69" />
         <mark key="^" line="87" column="69" />
@@ -101,6 +102,8 @@
       <jump line="123" column="23" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="127" column="12" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/settings.py" />
       <jump line="23" column="71" filename="$USER_HOME$/Desktop/Side Projects/testing_tensorflow/test.py" />
+      <jump line="25" column="7" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.bouncer/heimdal/groups/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/vermantia-rgs.bouncer/heimdal/groups/models.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
