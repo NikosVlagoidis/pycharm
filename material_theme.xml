@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="607D8B" />
+    <option name="tabsHeight" value="50" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
