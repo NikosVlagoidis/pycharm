@@ -14,12 +14,13 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="df" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="SPECS" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
-      <mapping ext="2017-02-20" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="2017-02-20" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
