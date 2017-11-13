@@ -34,6 +34,11 @@
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.ermis/ermis/settings.py" timestamp="1490011508968">
         <mark key="'" line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.events_service/thor/events/jobs/tasks.py" timestamp="1510567781232">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Side Projects/photo_dropbox/app.py" timestamp="1506329957550">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -109,22 +114,25 @@
       <register name="0" type="4">
         <text>params</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRhc2Zkc2Y=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBOb24K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBOb24K</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmRhc2Zkc2Y=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiMgSW50ZXJuYXRpb25hbGl6YXRpb24K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">VGhlc2UgQVBJIGFuZCBwb2ludHMgYXJlIGZvciByZWFkIG9ubHkgdXNlLiBUaGUgaGF2ZSBsaXN0LXZpZXcgYW5kIGRldGFpbCB2aWV3IGZvciBlYWNoIG1vZGVsLiBUaGV5IGFsc28Kc3VwcG9ydCBmaWx0ZXJpbmcgZm9yIGVhY2ggZmllbGQgb2YgdGhlIG1vZGVsIHdpdGggcXVlcnkgcGFyYW1zIG9uIHRoZSB1cmwuCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
