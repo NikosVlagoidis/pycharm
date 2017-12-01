@@ -4,13 +4,20 @@
     <property name="created">2017-03-22T11:03:57</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-11-15T15:34:50</property>
+    <property name="modified">2017-12-01T17:30:46</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Cousine for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
