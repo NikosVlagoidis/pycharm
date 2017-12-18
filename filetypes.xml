@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="conf" type="Erlang" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="get_offences" type="PLAIN_TEXT" />
       <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
