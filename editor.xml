@@ -5,6 +5,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>
