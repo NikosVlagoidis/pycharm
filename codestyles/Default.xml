@@ -11,4 +11,7 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
