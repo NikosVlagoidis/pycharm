@@ -4,6 +4,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
