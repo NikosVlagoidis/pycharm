@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1519744631077">
@@ -33,12 +33,15 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" timestamp="1519744726221">
-        <mark key="'" line="90" column="43" />
-        <mark key="[" line="90" column="58" />
-        <mark key="]" line="90" column="58" />
+      <file name="$USER_HOME$/st2-docker/packs.dev/encode/actions/lib/data_models.py" timestamp="1519745982133">
+        <mark key="'" line="110" column="8" />
+      </file>
+      <file name="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" timestamp="1519746063792">
+        <mark key="'" line="238" column="8" />
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="49" column="41" />
         <mark key="^" line="37" column="0" />
-        <mark key="." line="90" column="58" />
+        <mark key="." line="49" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/vermantia-rgs.connect_configurations/loki/productions/models.py" timestamp="1505911864084">
         <mark key="'" line="20" column="18" />
@@ -125,7 +128,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/post_to_ess.py" />
       <jump line="127" column="43" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/post_to_ess.py" />
       <jump line="0" column="13" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
-      <jump line="238" column="8" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
       <jump line="18" column="0" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
       <jump line="93" column="45" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
       <jump line="132" column="28" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
@@ -135,6 +137,12 @@
       <jump line="60" column="13" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
       <jump line="89" column="33" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
       <jump line="90" column="43" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
+      <jump line="98" column="9" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
+      <jump line="238" column="8" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/get_offences.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/lib/data_models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/lib/data_models.py" />
+      <jump line="118" column="8" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/lib/data_models.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/st2-docker/packs.dev/encode/actions/lib/data_models.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -144,7 +152,7 @@
         <text encoding="base64">ICAgICAgICBOb24K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>k</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CmRhc2Zkc2Y=</text>
@@ -162,10 +170,10 @@
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdjEvdXNlcnMvcmVnaXN0ZXIvJCcsIENyZWF0ZUVybWlzVXNlclZpZXcuYXNfdmlldygpLCBuYW1lPSdyZWdpc3RlcicpLAogICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>/vars</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>vars</text>
@@ -199,6 +207,7 @@
         <entry>54</entry>
         <entry>59</entry>
         <entry>/vars</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -269,6 +278,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
