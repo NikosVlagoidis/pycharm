@@ -123,7 +123,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/StackStorm/st2.git" />
+          <option name="url" value="https://github.com/StackStorm/st2-docker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
