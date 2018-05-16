@@ -7,6 +7,7 @@
       <mapping pattern="get_offences" type="PLAIN_TEXT" />
       <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
       <mapping pattern="values" type="PLAIN_TEXT" />
+      <mapping pattern="index.html" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
