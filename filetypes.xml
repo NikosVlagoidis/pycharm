@@ -27,6 +27,7 @@
       <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
       <mapping pattern="SPECS" type="PLAIN_TEXT" />
       <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
+      <mapping pattern="get_authentication_events.yaml" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
