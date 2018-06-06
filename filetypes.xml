@@ -14,6 +14,7 @@
       <mapping pattern="basic auth" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="df" type="PLAIN_TEXT" />
+      <mapping pattern="tasks" type="PLAIN_TEXT" />
       <mapping pattern="head" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
@@ -22,6 +23,7 @@
       <mapping pattern="qs" type="PLAIN_TEXT" />
       <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
       <mapping pattern=".config.schema.yaml.swp" type="PLAIN_TEXT" />
+      <mapping pattern="bet_kumar.py" type="PLAIN_TEXT" />
       <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
       <mapping pattern="SPECS" type="PLAIN_TEXT" />
       <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
