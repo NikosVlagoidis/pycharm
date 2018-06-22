@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="79" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
