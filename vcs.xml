@@ -91,7 +91,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/NikosVlagoidis/st2docs.git" />
+          <option name="url" value="https://github.com/StackStorm/packer-st2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
