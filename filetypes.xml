@@ -36,6 +36,7 @@
       <mapping ext="2017-02-20" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="ole" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
