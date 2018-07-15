@@ -10,11 +10,10 @@
       <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
-      <mapping pattern="get_authentication_events.yaml" type="PLAIN_TEXT" />
       <mapping pattern="head" type="PLAIN_TEXT" />
       <mapping pattern="bet_kumar.py" type="PLAIN_TEXT" />
       <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
-      <mapping pattern=".config.schema.yaml.swp" type="PLAIN_TEXT" />
+      <mapping pattern="get_authentication_events.yaml" type="PLAIN_TEXT" />
       <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
       <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
       <mapping pattern="index.html" type="PLAIN_TEXT" />
@@ -23,6 +22,7 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="df" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern=".config.schema.yaml.swp" type="PLAIN_TEXT" />
       <mapping pattern="values" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
       <mapping pattern="SPECS" type="PLAIN_TEXT" />
@@ -33,7 +33,6 @@
       <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="2017-02-20" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="ole" type="PLAIN_TEXT" />
