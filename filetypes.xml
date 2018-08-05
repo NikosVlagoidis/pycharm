@@ -4,31 +4,32 @@
     <extensionMap>
       <mapping ext="conf" type="Erlang" />
       <mapping pattern="qradar_sample" type="JavaScript" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="basic auth" type="PLAIN_TEXT" />
-      <mapping pattern="execution_completion_trigger_update" type="PLAIN_TEXT" />
-      <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
-      <mapping pattern="Make" type="PLAIN_TEXT" />
-      <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
-      <mapping pattern="head" type="PLAIN_TEXT" />
-      <mapping pattern="bet_kumar.py" type="PLAIN_TEXT" />
-      <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
-      <mapping pattern="get_authentication_events.yaml" type="PLAIN_TEXT" />
-      <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
-      <mapping pattern="index.html" type="PLAIN_TEXT" />
-      <mapping pattern="qs" type="PLAIN_TEXT" />
-      <mapping pattern="make_channels_gs" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="df" type="PLAIN_TEXT" />
-      <mapping pattern="dd" type="PLAIN_TEXT" />
-      <mapping pattern=".config.schema.yaml.swp" type="PLAIN_TEXT" />
-      <mapping pattern="values" type="PLAIN_TEXT" />
-      <mapping pattern="tasks" type="PLAIN_TEXT" />
-      <mapping pattern="SPECS" type="PLAIN_TEXT" />
-      <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="get_offences" type="PLAIN_TEXT" />
+      <mapping pattern="Jekinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="values" type="PLAIN_TEXT" />
+      <mapping pattern="index.html" type="PLAIN_TEXT" />
+      <mapping pattern="Make" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="execution_completion_trigger_update" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="basic auth" type="PLAIN_TEXT" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="df" type="PLAIN_TEXT" />
+      <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="head" type="PLAIN_TEXT" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern="vtrans-core_q" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="make_channels_gs" type="PLAIN_TEXT" />
+      <mapping pattern="new_file_fore_test" type="PLAIN_TEXT" />
+      <mapping pattern=".config.schema.yaml.swp" type="PLAIN_TEXT" />
+      <mapping pattern="fasdf" type="PLAIN_TEXT" />
+      <mapping pattern="bet_kumar.py" type="PLAIN_TEXT" />
+      <mapping pattern="qs" type="PLAIN_TEXT" />
+      <mapping pattern="kapoialalla" type="PLAIN_TEXT" />
+      <mapping pattern="SPECS" type="PLAIN_TEXT" />
+      <mapping pattern="i_add_another_file" type="PLAIN_TEXT" />
+      <mapping pattern="get_authentication_events.yaml" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
