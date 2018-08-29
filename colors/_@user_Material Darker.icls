@@ -4,7 +4,7 @@
     <property name="created">2018-08-29T17:22:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-08-29T17:35:31</property>
+    <property name="modified">2018-08-29T17:41:53</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -2765,7 +2765,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f71114" />
+        <option name="FOREGROUND" value="f7464f" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
