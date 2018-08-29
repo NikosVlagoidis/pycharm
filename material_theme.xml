@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.5.3" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="607D8B" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="84ffff" />
     <option name="tabsHeight" value="50" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
