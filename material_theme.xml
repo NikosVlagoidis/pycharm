@@ -1,11 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.4.1.5-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="607D8B" />
     <option name="tabsHeight" value="50" />
-    <option name="darkTitleBar" value="true" />
+    <option name="userId" value="-33c6a1a:1658603deb6:-7fff" />
   </component>
 </application>
